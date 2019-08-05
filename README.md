@@ -6,6 +6,6 @@ STEPS
 
 2.Run npm run android to run on android
 
-3.Run npm run ios to run on android
+3.Run npm run ios to run on ios
 
 4.Run npm run build-apk to make build for android
